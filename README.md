@@ -1,34 +1,18 @@
-## ☕ Pacha's Café
+🏛️ Municipalidad de Rioja
+La Municipalidad de Rioja es una institución comprometida con el desarrollo sostenible y la mejora continua de los servicios municipales para todos los ciudadanos de nuestra comunidad. Trabajamos día a día para promover la cultura, el bienestar social y el progreso económico de Rioja, asegurando una gestión transparente y participativa.
 
-**Pacha's Café** es una tienda especializada en la venta de café de origen, cultivado con pasión desde la región de San Ignacio, Cajamarca. Somos un grupo comprometido en ofrecer un café de calidad, orgánico y saludable, garantizando sostenibilidad en cada etapa de producción.
+🌱 Misión
+Brindar servicios públicos eficientes y de calidad que contribuyan al desarrollo integral de Rioja, promoviendo la participación ciudadana y preservando nuestras tradiciones y recursos naturales.
 
-### 🌱 Misión
-Ofrecer a nuestros clientes un café de alta calidad, orgánico y saludable, promoviendo prácticas comerciales justas que retribuyen a los productores, y preservando las tradiciones agrícolas sostenibles.
+🎯 Visión
+Ser reconocidos como una municipalidad modelo en Perú, líder en gestión sostenible, inclusión social y desarrollo económico, trabajando de la mano con la comunidad para un futuro mejor.
 
-### 🎯 Visión
-Ser reconocidos como el café de especialidad líder en Perú, comprometidos con la sostenibilidad, la protección del medio ambiente, y el bienestar de los agricultores, llevando lo mejor de la tierra a cada taza.
+📌 Servicios Destacados
+Gestión Ambiental: Programas de reciclaje, reforestación y cuidado de áreas verdes.
+Promoción Cultural: Eventos y actividades que preservan y difunden nuestras tradiciones.
+Servicios Sociales: Apoyo a poblaciones vulnerables a través de programas de salud, educación y bienestar.
+🤝 Responsabilidad Social
+Apoyamos a diversas asociaciones locales y promovemos iniciativas para el desarrollo comunitario, el respeto al medio ambiente y la mejora de la calidad de vida de nuestros ciudadanos.
 
-### 📌 Productos Destacados
-- **Grano de café Pache**: Resistente a cambios climáticos y ofrece una acidez y dulzura únicas.
-- **Tostado medio**: Resalta las notas propias de los granos para una experiencia completa.
-- **Molido medio**: Ideal para cafeteras eléctricas, prensa francesa y métodos de goteo.
-
-### 🤝 Responsabilidad Social
-Apoyamos a la Asociación Misicha Perú, ayudando a animales en estado de abandono y promoviendo el respeto hacia ellos.
-
-### 🌐 Conéctate con nosotros
-<p align="center">
-  <a href="https://www.facebook.com/Pachascafe/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗-Facebook-blue?style=for-the-badge&logo=facebook" alt="Facebook de Pacha's Café" />
-  </a>
-  <a href="https://www.instagram.com/pachascafe/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗-Instagram-ff69b4?style=for-the-badge&logo=instagram" alt="Instagram de Pacha's Café" />
-  </a>
-  <a href="https://pachas.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐-Página_Web-00c853?style=for-the-badge&logo=google-chrome" alt="Página Web de Pacha's Café" />
-  </a>
-</p>
-
----
-
-¡Disfruta de lo mejor de la tierra con Pacha's Café!
+🌐 Conéctate con nosotros
+<p align="center"> <a href="https://www.facebook.com/MunicipalidadDeRioja/" target="_blank"> <img src="https://img.shields.io/badge/🔗-Facebook-blue?style=for-the-badge&logo=facebook" alt="Facebook de la Municipalidad de Rioja" /> </a> <a href="https://www.instagram.com/municipalidadderioja/" target="_blank"> <img src="https://img.shields.io/badge/🔗-Instagram-ff69b4?style=for-the-badge&logo=instagram" alt="Instagram de la Municipalidad de Rioja" /> </a> <a href="https://rioja.peru/" target="_blank"> <img src="https://img.shields.io/badge/🌐-Página_Web-00c853?style=for-the-badge&logo=google-chrome" alt="Página Web de la Municipalidad de Rioja" /> </a> </p>
