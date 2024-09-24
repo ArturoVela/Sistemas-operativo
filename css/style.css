@@ -6722,11 +6722,11 @@ margin-bottom: 40px;
 
 .main-footer .widgets-section {
   position: relative;
-  padding: 100px 0px 70px;
+  padding: 100px 0px 0px;
 }
 
 .main-footer.normal-padding .widgets-section {
-  padding: 120px 0px 70px;
+  padding: 120px 0px 0px;
 }
 
 .main-footer .column {
@@ -11413,7 +11413,7 @@ margin-bottom: 40px;
   height: 100%;
   min-height: 100%;
   padding: 15px 15px 10px;
-  background: #f0553e;
+  background: #337ab7;
   border-radius: 7px;
   -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.05);
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.05);
